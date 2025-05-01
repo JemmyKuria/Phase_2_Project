@@ -1,4 +1,3 @@
-# Phase_2_Project
 # PHASE_2_PROJECT
 
 # PROJECT OVERVIEW
