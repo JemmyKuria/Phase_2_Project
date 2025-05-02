@@ -48,7 +48,7 @@ No universal movie identification index
 #### Movie Popularity by Genre
 ![alt text](image-4.png)
 
-The above figure  concluded that, Adventure, Action, and Sci-Fi emerged as the most popular genres  
+The above figure above concludes that, Adventure, Action, and Sci-Fi emerged as the most popular genres  
 
 ## Average Rating by Genre
 ![alt text](image-5.png)
