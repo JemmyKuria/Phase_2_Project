@@ -64,3 +64,6 @@ Popularity metrics (like those from TMDb) offer predictive value, especially whe
 
 The combined dataset enables deep financial modeling, including gross earnings, ROI calculations, and trend forecasting.
 
+
+# Trello Link
+https://trello.com/b/qHiJCiSx/movie-analysis?utm_source=eval-email&utm_medium=email&utm_campaign=board-invite
