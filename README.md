@@ -28,16 +28,28 @@ All datasets were merged using a cleaned version of movie titles (clean_title) t
 
 # ANALYSIS
 ## Average rating by genre
-![alt text](image.png)
+![alt text](image-5.png)
+
+The above figure shows that History, Documentary, and Biography emerged as the highest-rated genres based on: Higher average audience ratings (all above 7.0) and a clear lead over other genres in average rating, suggesting stronger overall audience appreciation
 
 ## Popularity by Genre
 ![alt text](image-1.png)
 
-## Number of movies produced by each genre 
-![alt text](image-2.png)
+The above figure shows that Adventure, Action, and Sci-Fi are the most popular genres based on:  
+- Higher median popularity scores
+- A wide spread of values, indicating a high number of popular titles
+- Presence of outliers representing blockbuster hits
+
+## Average Movie Popularity by Month
+![alt text](image-4.png)
+
+The above figure shows that in the month of June, September and October are the best months to produce a movie since it will reach a huge target of audience 
 
 # Average ROI by Genre
-![alt text](image-3.png)
+![alt text](image-6.png)
+The above figure show that Horror, Mystery, and Thriller are the most profitable genres, each with an average ROI above 9.0.
+
+
 ## Tableau
 https://public.tableau.com/app/profile/faith.githaiga/viz/BoxOffice_17460097972510/BoxOfficeInsights?publish=yes
 
