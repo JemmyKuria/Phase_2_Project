@@ -50,12 +50,12 @@ No universal movie identification index
 
 The above figure above concludes that, Adventure, Action, and Sci-Fi emerged as the most popular genres  
 
-## Average Rating by Genre
+#### Average Rating by Genre
 ![alt text](image-5.png)
 
 The above figure concluded that, History, Documentary, and Biography emerged as the highest-rated genres.
 
-## ## Median ROI By Budget Group
+#### Median ROI By Budget Group
 ![alt text](image-7.png)
 
 From the above figure we concluded that the median ROI increases as the budget increases.
@@ -74,10 +74,13 @@ https://public.tableau.com/app/profile/faith.githaiga/viz/BoxOffice_174600979725
 
 
 # CONCLUSION
-Horror, mystery and thriller movies had the highest ROI, showing these types of films had the most (relative) commercial success
-Adventure, action, and sci-fi were the most popular genres, but not the most profitable
- Movies released in May, November and July performed the best in terms of viewership 
-Higher budget films tended to yield higher ROI, but a high budget didn’t always guarantee high returns
+### Horror, mystery and thriller movies had the highest ROI, showing these types of films had the most (relative) commercial success.
+
+### Adventure, action, and sci-fi were the most popular genres, but not the most profitable .
+
+### Movies released in May, November and July performed the best in terms of viewership.
+
+### Higher budget films tended to yield higher ROI, but a high budget didn’t always guarantee high returns.
 
 
 # Trello Link
